@@ -11,7 +11,7 @@
     "react-burger-menu": "^2.6.13",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-vis": "^1.11.7"
   },
   "scripts": {
@@ -39,7 +39,7 @@
     "gulp-changed": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^6.0.1",
     "gulp-uglify": "^3.0.2"
   }
 }
